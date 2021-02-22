@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Photo Library</string>
+    <string name="main_image_description">Main Image</string>
+    <string name="image_select_button">Selecione uma imagem</string>
+    <string name="camera_button">Tirar foto</string>
+</resources>
